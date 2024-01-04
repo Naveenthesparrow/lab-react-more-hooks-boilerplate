@@ -1,0 +1,144 @@
+.container {
+  padding: 20px;
+  background-color: #ffffff;
+}
+
+.main {
+  max-width: 600px;
+  background-color: rgb(159, 210, 255);
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+input {
+  width: 100%;
+  height: 40px;
+  padding: 0 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+  outline: none;
+  transition: border-color 0.3s;
+}
+
+.input {
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.listDiv {
+  list-style-type: none;
+  padding: 0;
+}
+
+.lists {
+  margin-bottom: 8px;
+  padding: 8px;
+  border: 1px solid #000000;
+  background-color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+button {
+  font-size: 0.8rem;
+  margin-left: 8px;
+  cursor: pointer;
+  width: 120px;
+  height: 40px;
+  background-color: #007bff;
+  border: none;
+  border-radius: 4px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.lists .hidden-content {
+  color: #999;
+  font-style: italic;
+}
+
+.lists .revealed-content {
+  font-weight: bold;
+  color: #333;
+}
+.container {
+  padding: 20px;
+  background-color: #ffffff;
+}
+
+.main {
+  max-width: 600px;
+  background-color: rgb(159, 210, 255);
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+input {
+  width: 100%;
+  height: 40px;
+  padding: 0 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+  outline: none;
+  transition: border-color 0.3s;
+}
+
+.input {
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.listDiv {
+  list-style-type: none;
+  padding: 0;
+}
+
+.lists {
+  margin-bottom: 8px;
+  padding: 8px;
+  border: 1px solid #000000;
+  background-color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+button {
+  font-size: 0.8rem;
+  margin-left: 8px;
+  cursor: pointer;
+  width: 120px;
+  height: 40px;
+  background-color: #007bff;
+  border: none;
+  border-radius: 4px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.lists .hidden-content {
+  color: #999;
+  font-style: italic;
+}
+
+.lists .revealed-content {
+  font-weight: bold;
+  color: #333;
+}
